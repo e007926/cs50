@@ -3,7 +3,7 @@ Week 1
 * Prototype
 
   #### protoype.c
-  ```
+  ``` C
   #include <cs50.h>
   #include <stdio.h>
 
