@@ -19,4 +19,14 @@ Week 1
   }
 
   ```
-* Problem set 1 - C
+* Problem set 1 - C  
+    water.c : A program that reports a user’s water usage, converting minutes spent in the shower to bottles water.  
+    ```
+    $ ./water
+    Minutes: 1
+    Bottles: 12
+  
+     $ ./water
+    Minutes: 10
+    Bottles: 120
+    ```
